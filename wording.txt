@@ -1,0 +1,4 @@
+cat wording.txt
+cd
+clear
+:wq!

@@ -1,0 +1,6 @@
+I'm not sure why it's refusing to move the cursor wherever I want.
+But, at least I'm able to inset new lines here at the top.
+This is the third file I'm creating using Linux.
+Cool.
+Figured why it is refusing to point the cursor where I want.
+Instead of clocking you neeed to use the arrow keys on the keyboard.
